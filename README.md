@@ -42,11 +42,20 @@ A React-based dashboard prototype for visualizing data through natural language 
    ```bash
    npm install
    ```
+   npm install recharts
+   npm install @reduxjs/toolkit react-redux
+   npm install @mui/material @emotion/react @emotion/styled
+   npm install redux
+   npm install @reduxjs/toolkit react-redux
+   
 
 4. Start the development server:
    ```bash
    npm start
    ```
+
+
+
 
 The application will be available at `http://localhost:3000`.
 
